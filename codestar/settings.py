@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'codestarr-blog-0f32e7bde756.herokuapp.com', '8000-sorinpan-i-think-therefo-dcvsjxh0rd.us2.codeanyapp.com']
+    'codestarr-blog.herokuapp.com', '8000-sorinpan-i-think-therefo-dcvsjxh0rd.us2.codeanyapp.com']
 
 
 # Application definition
